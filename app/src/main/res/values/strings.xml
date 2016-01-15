@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VolleyDemo1FG1</string>
+    <string name="action_settings">Settings</string>
+    <string name="QueryLocation">Mobile phone number attribution query</string>
+    <string name="btnMnQuery">Query</string>
+</resources>
